@@ -1,0 +1,13 @@
+node_modules/
+dist/
+artifacts/
+cache/
+coverage/
+.env
+.hardhat-home/
+.DS_Store
+src/generated/deployment.json
+*.tsbuildinfo
+offchain-services.log
+outputs/
+work/
