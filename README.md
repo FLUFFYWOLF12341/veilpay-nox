@@ -2,6 +2,8 @@
 
 VeilPay is confidential batch payroll for small teams and DAOs, built for the iExec WTF Hackathon. Employers prepare a payroll in a standard browser wallet while iExec Nox encrypts every allocation before it reaches public calldata. Recipients can access only the allocation authorized for their address.
 
+**Live app:** https://fluffywolf12341.github.io/veilpay-nox/
+
 ## What is implemented
 
 - Responsive employer and recipient workspace with MetaMask connection

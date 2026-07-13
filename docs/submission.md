@@ -35,10 +35,10 @@ Expected result: 39 application tests and 4 contract tests pass, including the D
 
 ## Final external links
 
-- Repository: `[ADD PUBLIC GITHUB URL]`
+- Repository: `https://github.com/FLUFFYWOLF12341/veilpay-nox`
 - Demo video: `[ADD VIDEO URL]`
 - Sepolia contract: `[ADD ETHERSCAN ADDRESS URL]`
-- Live app: `[ADD DEPLOYED FRONTEND URL]`
+- Live app: `https://fluffywolf12341.github.io/veilpay-nox/`
 
 ## Submission checklist
 
@@ -47,10 +47,10 @@ Expected result: 39 application tests and 4 contract tests pass, including the D
 - [x] Nox Docker integration test
 - [x] MetaMask Sepolia deployment flow
 - [x] README, architecture, feedback, demo script, and submission copy
-- [ ] Publish repository and paste URL
+- [x] Publish repository and paste URL
 - [ ] Confirm MetaMask deployment and paste Etherscan URL
 - [ ] Record and publish the 3:30 demo
-- [ ] Publish frontend and paste URL
+- [x] Publish frontend and paste URL
 - [ ] Submit BUIDL through DoraHacks account
 
 ## X post draft
